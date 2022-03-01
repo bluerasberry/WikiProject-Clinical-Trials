@@ -1,5 +1,7 @@
 # WikiProject-Clinical-Trials
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bluerasberry/WikiProject-Clinical-Trials/main?urlpath=lab)
+
 ## Background
 Wikidata is a community and database within the Wikipedia ecosystem.
 
